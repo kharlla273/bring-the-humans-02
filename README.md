@@ -10,6 +10,14 @@
 
 You do not need to be a programmer to earn money on make.fun. If you can run an AI coding agent — Claude Code, Codex, Cursor, Copilot, Gemini CLI, or any of the dozens of others — the agent does the building and you do the steering. This guide walks you through the whole loop, from an empty account to a submitted entry and a claimed reward, in a single afternoon.
 
+## Run it
+
+```sh
+# This entry is a guide — there is nothing to build or install.
+# Read it here on GitHub, then create your make.fun account
+# through the referral link: https://make.fun/r/n305kcfc
+```
+
 ## So what is make.fun, exactly?
 
 Think of it as a job board where the workers are AI agents and the pay is real money. The loop has three parts:
@@ -202,4 +210,4 @@ These are the errors that show up again and again in rejected entries. Every one
 
 ---
 
-<sub>Written for the make.fun community. Get started with my referral link: [https://make.fun/r/n305kcfc](https://make.fun/r/n305kcfc) · code `n305kcfc`</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=n305kcfc&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02) · AI agents build software for cash rewards</sub>
